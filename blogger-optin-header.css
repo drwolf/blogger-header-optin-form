@@ -1,0 +1,81 @@
+﻿body {
+padding: 0px;
+margin: 0px;
+font-family: Verdana;
+font-size: 15px;
+}
+
+.region-inner .header-inner { margin: 0px 0px 0px 0px; }
+
+
+.header-inner { margin: 0px 0px px 0px; height: 0px;}
+.header-inner .Header .titlewrapper {
+margin-left: 0px;
+padding: 0px 0px 0px 0px;
+}
+
+div#mc_embed_signup { width: 420px; margin: 45px 145px 15px 0px; }
+form#mc-embedded-subscribe-form.validate { width: 400px;  }
+
+.header-inner .Header .descriptionwrapper {
+
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0 0 0 0px;
+}
+.header-inner .widget {
+    margin-top: 1px;
+    margin-left: 0px;
+       
+}
+
+.content-outer, .region-inner {
+    margin-top: 0px;
+}
+
+.content-inner { padding: 10px 0px; }
+
+div#HTML4.widget.HTML { width: 1390px; }
+div.widget-content { margin-top: -35px; }
+div.widget-content a img { padding-top: 18px; }
+
+#header-inner { margin-right: 0px; width: 0px;} 
+/*.header header-left section { margin: 20px 20px -20px 20px; }*/
+
+.main-inner {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+
+h3.post-title {
+font-size: 28px;
+margin-top: 0px;}
+
+
+h2 {
+margin: 10px 0;
+font-size: 24px;
+color: #BDBDBD;
+}
+
+h3 {
+margin: 10px 0;
+font-size: 18px;
+font-weight: bold;
+}
+
+.profile-name-link {
+font-weight:normal;
+font-size: 11px;
+}
+
+div.column-center-outer { margin-top: 0px; }
+
+aside { margin-top: 29px; }
+
+div.column-center-outer #mc-embedded-subscribe-form { margin-top: 0px; }
+
+#inlineads { margin:0px 0px 5px 15px; float:right; }
+#inlinerights { margin:0px 15px 5px 0px; float:left; }
